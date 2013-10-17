@@ -8,11 +8,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : bearlyBITS
 tagline: Site Tagline
 author :
   name : Jeffrey Hsiung
-  email : kumajeff@gmail.com
+  email : jeffrey@bearlybits.com
   github : kumajeff
   twitter : kumajeff
   feedburner : feedname
