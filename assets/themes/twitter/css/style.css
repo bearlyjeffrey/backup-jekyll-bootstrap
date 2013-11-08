@@ -1,11 +1,11 @@
-body {
-    background-color: #eceae8;
+/*body {
+    background-color: #fdfbf9;
     background-image: -ms-radial-gradient(center 35em, circle farthest-corner, #fff 5%, #d5d0cc 65%);
     background-image: -moz-radial-gradient(center 35em, circle closest-corner, #fff 5%, #d5d0cc 65%);
     background-image: -o-radial-gradient(center 35em, circle closest-corner, #fff 5%, #d5d0cc 65%);
     background-image: -webkit-radial-gradient(center 35em, circle closest-corner, #fff 5%, #d5d0cc 65%);
     background-image: radial-gradient(center 35em, circle closest-corner, #ffffff 5%,#d5d0cc 65%);
-}
+}*/
 
 /* Custom container */
 .container-narrow {
